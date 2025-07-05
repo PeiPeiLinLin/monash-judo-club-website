@@ -102,7 +102,7 @@ input, select, textarea {
 
 	body {
 		background-color: #3c3c3d;
-		background-image: linear-gradient(to top, rgba(80, 80, 80, 0.8),   rgba(130, 128, 128, 0.8)), url("../../images/dojo.png");
+		background-image: linear-gradient(to top, rgba(80, 80, 80, 0.8),   rgba(130, 128, 128, 0.8)), url("../../images/judo_warm_up.jpg");
 		background-size: auto,
  cover;
 		background-attachment: fixed,
