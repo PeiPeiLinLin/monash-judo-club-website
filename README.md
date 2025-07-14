@@ -5,3 +5,10 @@ This website is currently build by HTML + CSS + JavaScript, and we have plans to
 
 The website is down below:
 https://peipeilinlin.github.io/monash-judo-club-website/
+
+
+short-term goal:
+    build the payment page(how to be a member)
+    and about page
+    map page
+    -> transfer it to react, but before it, try to make this website work on o-week 
