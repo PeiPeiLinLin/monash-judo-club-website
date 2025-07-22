@@ -4350,7 +4350,7 @@ body.is-preload #banner p {
 }
 
 .video-wrapper {
-	max-width: 50px;
+	max-width: 100px;
 	margin: 0 auto;
 	/* 居中 */
 	aspect-ratio: 16 / 9;
